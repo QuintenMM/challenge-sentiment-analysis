@@ -1,4 +1,4 @@
-# sentiment analyses on tweets 
+# Sentiment analyses on tweets 
 
 As a project i wanted to determain the sentiment people feel when thinking about there favorite show.
 
