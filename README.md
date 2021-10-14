@@ -1,3 +1,5 @@
+# sentiment analyses on tweets 
+
 As a project i wanted to determain the sentiment people feel when thinking about there favorite show.
 
 To do this I collect tweets with the hastag of there show. I connect to the api and use a small script to check my tokens. After that I collect  100 tweets from a topic they deside on by filling in a hastag. I collect the tweets and usernames and store them in a csv file.
