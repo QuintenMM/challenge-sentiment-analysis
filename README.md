@@ -7,5 +7,9 @@ To do this I collect tweets with the hastag of there show. I connect to the api 
 I import the csv file and quickly clean it. Sentiment models already exist so I don't have to train my own model. using NLP I determain the sentiment people have. this is stored as antother value in the dataframe.
 
 From the collection of these tweets I can determaine if most people are talking in a positive way or a negative way about the show. Using this I can see what the overal sentiment is for different shows.
+# Contributor
+| Name                   | Github                              |
+|------------------------|-------------------------------------|
+| Quinten Wildemeersch  | https://github.com/QuintenMM  |
 
 ![](https://github.com/QuintenMM/challenge-sentiment-analysis/blob/25ab69400742c0a80a8fa9fad3b9b56c4d3f7741/visuals/Screenshot%20from%202021-10-14%2014-13-23.png)
