@@ -95,9 +95,9 @@ def avg_polarity(df=tweets_filtered, col='polarity'):
         else:
             print('no match')
     if pos > neg:
-        return('People are positive about your show')
+        return(f"{pos} People are positive about your show and {neg} people don't like it ")
     else:
-        return('people are not positive about your show')
+        return(f'{neg} people are not positive about your show but {pos} are')
 
 
 
