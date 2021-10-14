@@ -8,4 +8,4 @@ I import the csv file and quickly clean it. Sentiment models already exist so I 
 
 From the collection of these tweets I can determaine if most people are talking in a positive way or a negative way about the show. Using this I can see what the overal sentiment is for different shows.
 
-![](visuals/Screenshot from 2021-10-14 14-13-23.png)
+![]('visuals/Screenshot from 2021-10-14 14-13-23.png')
