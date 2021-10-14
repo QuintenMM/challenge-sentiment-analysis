@@ -3,8 +3,8 @@ import pandas as pd
 import time
 
 def text_to_dataframe(word, amount):
-    auth = tweepy.OAuthHandler("M6pe373Psy5FOwSOL6Q6cW3OQ", "KnDkgsgk8wFPVha21KdEOfKYJ6kYoIzUlkoABJSwavUbqadvO3")
-    auth.set_access_token("1447465814182010881-3fo5PLwFfO6vlr3BywZEDaAu39WkJy","ZWtza699mka6sH9vo5OghrRwFEFzEgzvEgVloiniAninP")
+    auth = tweepy.OAuthHandler(consumer_key_open, consumer_key_private)
+    auth.set_access_token(acces_token_open,acces_token_private)
     api = tweepy.API(auth, retry_delay=3)
     try:
         api.verify_credentials()
